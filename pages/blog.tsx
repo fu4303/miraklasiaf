@@ -24,7 +24,7 @@ export default function BlogPage({ posts }) {
 
   return (
     <Page
-      title="Blog | Faisal Karim"
+      title="Blog | Alec Campbell"
       description="Thoughts on the programming, tech, and my personal life"
       canonical="/blog"
     >
