@@ -12,12 +12,11 @@ export default function AboutPage() {
             About Me
           </Heading>
           <Text color={secondaryColor}>
-            Hi, I'm Faisal. I live in Batam, Indonesia and I’m a Software Engineer.
+            Hi, I'm Alec living in Charlottesville, Virginia.  A jack of all trades, master of some.
           </Text>
           <Text color={secondaryColor}>
-            I grew up in small-town Batam and went to Riau University at Pekanbaru, graduating with
-            a degree in Computer Science. I spend my free time listening music, playing games, and
-            enjoying time with friends and family.
+            I grew up in small-town Free Union, Virginia before attending the University of Virginia in nearby Charlottesville. I spend my trying to understand
+            why and how things work.
           </Text>
         </Stack>
       </Stack>
