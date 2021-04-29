@@ -1,19 +1,19 @@
-const baseUrl = 'https://github.com/miraklasiaf/miraklasiaf.com'
+const baseUrl = 'https://github.com/fu4303/miraklasiaf'
 
 export const TWITTER_USER_NAME = 'miraklasiaf'
-export const PLATFORM_NAME = 'miraklasiaf'
-export const PLATFORM_LOWERCASE = 'miraklasiaf'
-export const PLATFORM_URL = 'https://miraklasiaf.com'
+export const PLATFORM_NAME = 'fu4303'
+export const PLATFORM_LOWERCASE = 'fu4303'
+export const PLATFORM_URL = 'https://miraklasiaf-nu.vercel.app'
 
 export const siteMetadata = {
-  copyright: `© ${new Date().getFullYear()} Faisal Karim`,
+  copyright: `© ${new Date().getFullYear()} Alec Campbell`,
   author: {
-    name: 'Faisal Karim',
-    github: 'https://github.com/miraklasiaf',
+    name: 'Alec Campbell',
+    github: 'https://github.com/fu4303',
     twitter: 'https://twitter.com/miraklasiaf',
-    linkedin: 'https://linkedin.com/in/miraklasiaf',
-    email: 'faisalkarim96@gmail.com',
-    mailto: 'mailto:faisalkarim96@gmail.com'
+    linkedin: 'https://linkedin.com/in/doc22940',
+    email: 'rsiyq924@gmail.com',
+    mailto: 'mailto:rsiyq924@gmail.com'
   },
   repo: {
     url: baseUrl,
