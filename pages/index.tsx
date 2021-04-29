@@ -10,10 +10,10 @@ export default function Index() {
     <Page title="Faisal Karim" description="Front-end developer and JavaScript enthusiast.">
       <Stack as="section" direction="column" spacing={4}>
         <Heading letterSpacing="tight" as="h1" size="2xl">
-          Hi, I'm Faisal Karim
+          Hi, I'm Alec Campbell
         </Heading>
         <Text color={secondaryColor}>
-          I'm a software engineer living in Batam, Indonesia. You’ve found my personal slice of the
+          I like to tinker in software code while living in Charlottesville, Virginia. You’ve found my personal slice of the
           internet – everything you want to know and more is here.
         </Text>
       </Stack>
