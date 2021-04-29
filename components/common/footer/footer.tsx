@@ -30,7 +30,7 @@ export default function Footer() {
             children="Twitter"
           />
           <Link
-            href="https://github.com/miraklasiaf"
+            href="https://github.com/fu4303"
             isExternal
             fontWeight="light"
             _hover={{ color: useColorModeValue('gray.900', 'whiteAlpha.100') }}
