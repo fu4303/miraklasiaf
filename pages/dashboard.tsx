@@ -6,7 +6,7 @@ export default function DashboardPage() {
 
   return (
     <Page
-      title="Dashboard | Faisal Karim"
+      title="Dashboard | Alec Campbell"
       description="My personal dashboard, build with Next.js API routes"
       canonical="/dashboard"
     >
